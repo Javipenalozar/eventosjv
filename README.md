@@ -4,4 +4,4 @@ Sitio maestro para publicar landings bajo `eventosjv.com`.
 
 ## Landings
 
-- `/academiareikianahata/` - Academia de Reiki Anahata
+- `https://anahata.eventosjv.com/` - Academia de Reiki Anahata
